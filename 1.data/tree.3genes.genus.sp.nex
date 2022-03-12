@@ -1,0 +1,245 @@
+#NEXUS
+[R-package APE, Sun Feb 28 11:13:17 2021]
+
+BEGIN TAXA;
+	DIMENSIONS NTAX = 116;
+	TAXLABELS
+		Erichthodes_antonina
+		Doxocopa_agathina
+		Paryphthimoides_argulus
+		Napeocles_jucunda
+		Amphidecta_calliomma
+		Cithaerias_cliftoni
+		Siderone_galanthis
+		Napeogenes_inachia
+		Dynamine_myrson
+		Colobura_dirce
+		Dryas_iulia
+		Fountainea_ryphea
+		Ectima_techla
+		Euptychoides_castrensis
+		Zaretis_isidora
+		Haetera_piera
+		Oleria_aegle
+		Antirrhea_philoctetes
+		Hermeuptychia_hermes
+		Hypna_clytemnestra
+		Nessaea_obrinus
+		Pseudodebis_valentina
+		Yphthimoides_renata
+		Tigridia_acesta
+		Bia_actorion
+		Baeotus_beotus
+		Temenis_laothoe
+		Marpesia_orsilochus
+		Siproeta_stelenes
+		Neruda_aoede
+		Historis_acheronta
+		Historis_odius
+		Chloreuptychia_agatha
+		Chloreuptychia_arnaca
+		Chloreuptychia_callichloris
+		Chloreuptychia_chlorimene
+		Chloreuptychia_herseis
+		Chloreuptychia_hewitsonii
+		Chloreuptychia_tolumnia
+		Magneuptychia_alcinoe
+		Magneuptychia_analis
+		Magneuptychia_fugitiva
+		Magneuptychia_harpyia
+		Magneuptychia_tricolor
+		Archaeoprepona_amphimachus
+		Archaeoprepona_demophon
+		Archaeoprepona_demophoon 
+		Archaeoprepona_licomedes
+		Archaeoprepona_meander
+		Hamadryas_amphinome
+		Hamadryas_arinome
+		Hamadryas_chloe
+		Hamadryas_feronia
+		Pyrrhogyra_amphiro
+		Pyrrhogyra_edocla
+		Pyrrhogyra_stratonicius
+		Prepona_amydon
+		Prepona_laertes
+		Prepona_pheridamas
+		Pierella_astyoche
+		Pierella_hyalinus
+		Pierella_lamia
+		Pierella_lena
+		Adelpha_attica
+		Adelpha_basiloides
+		Adelpha_capucinus
+		Adelpha_cocala
+		Adelpha_malea
+		Adelpha_mesentina
+		Adelpha_nea
+		Catoblepia_berecynthia
+		Catoblepia_soranus
+		Catoblepia_xanthiles
+		Pareuptychia_binocula
+		Pareuptychia_hesionides
+		Pareuptychia_ocirrhoe
+		Caligo_brasiliensis
+		Caligo_euphorbus
+		Caligo_eurilochus
+		Caligo_idomeneus
+		Caligo_illioneus
+		Opsiphanes_cassina
+		Opsiphanes_invirae
+		Opsiphanes_quiteria
+		Taygetis_chrysogone
+		Taygetis_cleopatra
+		Taygetis_echo
+		Taygetis_laches
+		Taygetis_larua
+		Taygetis_mermeria
+		Taygetis_sosis
+		Taygetis_thamyra
+		Taygetis_virgilia
+		Taygetis_zippora
+		Hypothyris_daphnis
+		Hypothyris_xanthostola
+		Hypothyris_sp
+		Morpho_deidamia
+		Morpho_helenor
+		Morpho_menelaus
+		Memphis_glauce
+		Memphis_laertes
+		Memphis_leonida
+		Memphis_mora
+		Memphis_moruus
+		Memphis_phantes
+		Memphis_philumena
+		Memphis_pseudiphis
+		Cissia_myncea
+		Cissia_penelope
+		Cissia_proba
+		Catonephele_numillia
+		Catonephele_orites
+		Eunica_orphise
+		Eunica_pusilla
+		Eunica_sydonia
+	;
+END;
+BEGIN TREES;
+	TRANSLATE
+		1	Erichthodes_antonina,
+		2	Doxocopa_agathina,
+		3	Paryphthimoides_argulus,
+		4	Napeocles_jucunda,
+		5	Amphidecta_calliomma,
+		6	Cithaerias_cliftoni,
+		7	Siderone_galanthis,
+		8	Napeogenes_inachia,
+		9	Dynamine_myrson,
+		10	Colobura_dirce,
+		11	Dryas_iulia,
+		12	Fountainea_ryphea,
+		13	Ectima_techla,
+		14	Euptychoides_castrensis,
+		15	Zaretis_isidora,
+		16	Haetera_piera,
+		17	Oleria_aegle,
+		18	Antirrhea_philoctetes,
+		19	Hermeuptychia_hermes,
+		20	Hypna_clytemnestra,
+		21	Nessaea_obrinus,
+		22	Pseudodebis_valentina,
+		23	Yphthimoides_renata,
+		24	Tigridia_acesta,
+		25	Bia_actorion,
+		26	Baeotus_beotus,
+		27	Temenis_laothoe,
+		28	Marpesia_orsilochus,
+		29	Siproeta_stelenes,
+		30	Neruda_aoede,
+		31	Historis_acheronta,
+		32	Historis_odius,
+		33	Chloreuptychia_agatha,
+		34	Chloreuptychia_arnaca,
+		35	Chloreuptychia_callichloris,
+		36	Chloreuptychia_chlorimene,
+		37	Chloreuptychia_herseis,
+		38	Chloreuptychia_hewitsonii,
+		39	Chloreuptychia_tolumnia,
+		40	Magneuptychia_alcinoe,
+		41	Magneuptychia_analis,
+		42	Magneuptychia_fugitiva,
+		43	Magneuptychia_harpyia,
+		44	Magneuptychia_tricolor,
+		45	Archaeoprepona_amphimachus,
+		46	Archaeoprepona_demophon,
+		47	Archaeoprepona_demophoon ,
+		48	Archaeoprepona_licomedes,
+		49	Archaeoprepona_meander,
+		50	Hamadryas_amphinome,
+		51	Hamadryas_arinome,
+		52	Hamadryas_chloe,
+		53	Hamadryas_feronia,
+		54	Pyrrhogyra_amphiro,
+		55	Pyrrhogyra_edocla,
+		56	Pyrrhogyra_stratonicius,
+		57	Prepona_amydon,
+		58	Prepona_laertes,
+		59	Prepona_pheridamas,
+		60	Pierella_astyoche,
+		61	Pierella_hyalinus,
+		62	Pierella_lamia,
+		63	Pierella_lena,
+		64	Adelpha_attica,
+		65	Adelpha_basiloides,
+		66	Adelpha_capucinus,
+		67	Adelpha_cocala,
+		68	Adelpha_malea,
+		69	Adelpha_mesentina,
+		70	Adelpha_nea,
+		71	Catoblepia_berecynthia,
+		72	Catoblepia_soranus,
+		73	Catoblepia_xanthiles,
+		74	Pareuptychia_binocula,
+		75	Pareuptychia_hesionides,
+		76	Pareuptychia_ocirrhoe,
+		77	Caligo_brasiliensis,
+		78	Caligo_euphorbus,
+		79	Caligo_eurilochus,
+		80	Caligo_idomeneus,
+		81	Caligo_illioneus,
+		82	Opsiphanes_cassina,
+		83	Opsiphanes_invirae,
+		84	Opsiphanes_quiteria,
+		85	Taygetis_chrysogone,
+		86	Taygetis_cleopatra,
+		87	Taygetis_echo,
+		88	Taygetis_laches,
+		89	Taygetis_larua,
+		90	Taygetis_mermeria,
+		91	Taygetis_sosis,
+		92	Taygetis_thamyra,
+		93	Taygetis_virgilia,
+		94	Taygetis_zippora,
+		95	Hypothyris_daphnis,
+		96	Hypothyris_xanthostola,
+		97	Hypothyris_sp,
+		98	Morpho_deidamia,
+		99	Morpho_helenor,
+		100	Morpho_menelaus,
+		101	Memphis_glauce,
+		102	Memphis_laertes,
+		103	Memphis_leonida,
+		104	Memphis_mora,
+		105	Memphis_moruus,
+		106	Memphis_phantes,
+		107	Memphis_philumena,
+		108	Memphis_pseudiphis,
+		109	Cissia_myncea,
+		110	Cissia_penelope,
+		111	Cissia_proba,
+		112	Catonephele_numillia,
+		113	Catonephele_orites,
+		114	Eunica_orphise,
+		115	Eunica_pusilla,
+		116	Eunica_sydonia
+	;
+	TREE * UNTITLED = [&R] (((((((((((1:0.07295406,(74:0.0235722,75:0.0235722,76:0.0235722):0.0235722):0.02774453,((109:0.037102805,110:0.037102805,111:0.037102805):0.037102805,3:0.05935373,(40:0.01428253,41:0.01428253,42:0.01428253,43:0.01428253,44:0.01428253):0.01428253,14:0.039558453):0.01362063):0.004802313,5:0.1604199,((85:0.02895824,86:0.02895824,87:0.02895824,88:0.02895824,89:0.02895824,90:0.02895824,91:0.02895824,92:0.02895824,93:0.02895824,94:0.02895824):0.02895824,22:0.07724062):0.02863999,(33:0.07007645,34:0.07007645,35:0.07007645,36:0.07007645,37:0.07007645,38:0.07007645,39:0.07007645):0.07007645,(19:0.09840256,23:0.1282059):0.02361452):0.07631821,((((64:0.140737095,65:0.140737095,66:0.140737095,67:0.140737095,68:0.140737095,69:0.140737095,70:0.140737095):0.140737095,(11:0.08184247,30:0.15224258):0.0784309):0.05156229,(2:0.1501247,(4:0.05890811,29:0.05297734):0.07579826,(50:0.04454085,51:0.04454085,52:0.04454085,53:0.04454085):0.04454085,9:0.06929239,(10:0.06685471,24:0.07126604):0.07459544,(114:0.03280603,115:0.03280603,116:0.03280603):0.03280603,13:0.07461551,((31:0.00715934,32:0.00715934):0.00715934,26:0.07408338):0.08868138,(21:0.0767799,(112:0.04283501,113:0.04283501):0.04283501):0.05539288,((54:0.045548565,55:0.045548565,56:0.045548565):0.045548565,27:0.09665591):0.02413813,28:0.1714107):0.04840838):0.03104987,((8:0.05375608,(95:0.03923121,96:0.03923121,97:0.03923121):0.03923121):0.01240526,17:0.10020105):0.16839565):0.06709274):0.03969771,(((98:0.07449328,99:0.07449328,100:0.07449328):0.07449328,18:0.1600086):0.03721628,(((77:0.039545755,78:0.039545755,79:0.039545755,80:0.039545755,81:0.039545755):0.039545755,((82:0.05742354,83:0.05742354,84:0.05742354):0.05742354,(71:0.04809819,72:0.04809819,73:0.04809819):0.04809819):0.01775898):0.04507162,25:0.1827586):0.02517711):0.02686083):0.01148988,((6:0.02886374,16:0.09925641):0.07147031,(60:0.04793313,61:0.04793313,62:0.04793313,63:0.04793313):0.04793313):0.04531983):0.1361178,((57:0.051748095,58:0.051748095,59:0.051748095):0.051748095,(45:0.0688659,46:0.0688659,47:0.0688659,48:0.0688659,49:0.0688659):0.0688659):0.05919229):0.02837596,20:0.1472973):0.03278869,(7:0.0371122,15:0.03465969):0.10773418):0.04019987,(101:0.04679713,102:0.04679713,103:0.04679713,104:0.04679713,105:0.04679713,106:0.04679713,107:0.04679713,108:0.04679713):0.04679713):0.02390984,12:0.08457374);
+END;
